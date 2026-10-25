@@ -1,1 +1,1 @@
-# CSE115L-project-Pharmacy_Stock_and_Expiry_V1
+# CSE115L-project-Pharmacy_Stock_and_Expiry
